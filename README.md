@@ -1,2 +1,2 @@
-# examples
-some test projects for the purpose of reuse
+#kdl_rbdl_install
+worksapce where kdl and rbdl install
